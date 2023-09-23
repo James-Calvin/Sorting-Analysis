@@ -40,7 +40,7 @@ class Sortable<T> where T : IComparable<T>
 
   // O(1):O(1)
   // Swaps two elements in the `values` List by their indices
-  private void Swap(int i, int j)
+  public void Swap(int i, int j)
   {
     T temp = values[i];
     values[i] = values[j];
