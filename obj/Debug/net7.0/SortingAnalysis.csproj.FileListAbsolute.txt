@@ -1,0 +1,15 @@
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\bin\Debug\net7.0\SortingAnalysis.exe
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\bin\Debug\net7.0\SortingAnalysis.deps.json
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\bin\Debug\net7.0\SortingAnalysis.runtimeconfig.json
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\bin\Debug\net7.0\SortingAnalysis.dll
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\bin\Debug\net7.0\SortingAnalysis.pdb
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\obj\Debug\net7.0\SortingAnalysis.csproj.AssemblyReference.cache
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\obj\Debug\net7.0\SortingAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\obj\Debug\net7.0\SortingAnalysis.AssemblyInfoInputs.cache
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\obj\Debug\net7.0\SortingAnalysis.AssemblyInfo.cs
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\obj\Debug\net7.0\SortingAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\obj\Debug\net7.0\SortingAnalysis.dll
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\obj\Debug\net7.0\refint\SortingAnalysis.dll
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\obj\Debug\net7.0\SortingAnalysis.pdb
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\obj\Debug\net7.0\SortingAnalysis.genruntimeconfig.cache
+C:\Users\James\OneDrive\Desktop\Coding Projects\Sorting Analysis\SortingAnalysis\obj\Debug\net7.0\ref\SortingAnalysis.dll
